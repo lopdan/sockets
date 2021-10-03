@@ -1,1 +1,3 @@
-# tcp-scoket
+# TCP-Socket connection
+
+![](connection.png)
